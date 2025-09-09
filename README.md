@@ -9,7 +9,6 @@
 - When I'm not coding or tinkering with my linux installation (and probably breaking something), you'll probably find me gaming.
 
 ## 🔧 What I'm working on:
-- **[Networking-Courses](https://github.com/likewise6428/Networking-Courses):** My journey and notes through networking studies.
 - **[password_gen](https://github.com/likewise6428/password_gen):** A handy Python password generator because strong passwords rule.
 
 ## 🎮 Hobbies
