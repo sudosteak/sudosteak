@@ -1,4 +1,4 @@
-# Hi there, I'm likewise6428 👋
+# Hi there, I'm sudosteak 👋
 
 🎓 I'm currently studying **Computer Systems Technician – Networking** at Algonquin College.  
 🐍 Learning Python.
@@ -9,7 +9,7 @@
 - When I'm not coding or tinkering with my linux installation (and probably breaking something), you'll probably find me gaming.
 
 ## 🔧 What I'm working on:
-- **[password_gen](https://github.com/likewise6428/password_gen):** A handy Python password generator because strong passwords rule.
+- **[password_gen](https://github.com/sudosteak/password_gen):** A handy Python password generator because strong passwords rule.
 
 ## 🎮 Hobbies
 - Gaming 
